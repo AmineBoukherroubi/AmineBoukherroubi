@@ -46,7 +46,7 @@ Chaque projet est pour moi une occasion d’améliorer ma logique, ma structure 
 ---
 
 ## 📫 Contact
-📧 Email : **akramslimani277@gmail.com**  
+📧 Email : **boukherroubiamine@gmail.com**  
 🔗 LinkedIn : **https://www.linkedin.com/in/akra5778a3221/**
 
 ---
