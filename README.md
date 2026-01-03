@@ -1,41 +1,54 @@
-## À propos de moi
-Je m'appelle **Amine Boukherroubi** et je suis étudiant en informatique.  
-Je m’intéresse particulièrement au **développement web**, à la **programmation orientée objet** et à l’**intelligence artificielle**.  
-J’aime apprendre en pratiquant, relever des défis et découvrir des technologies qui me permettent de progresser.
+# 👋 Amine Boukherroubi
 
-## Projets
-Je réalise des projets **personnels** et **académiques** afin de renforcer mes compétences et explorer plusieurs outils et frameworks.  
-Je suis surtout passionné par le **développement web**, et j’apprécie créer des applications **interactives**, **claires** et **conviviales**.
+Étudiant en informatique, je développe mes compétences autour de plusieurs axes : **applications Web**, **Mobile**, **Desktop** et **Intelligence Artificielle (IA)**.  
+J’aime apprendre par la pratique, construire des solutions utiles et améliorer continuellement la qualité et l’organisation de mon code.
 
-## Compétences techniques
-- Langages de programmation : `Java` `C` `Python` `R` `JavaScript` `PHP` `HTML/CSS` `Prolog` `Processing`
-- Base de données : `MySQL` `PostgreSQL` `Oracle` `PL/pgSQL`
-- Systèmes d'exploitation : `Windows` `Linux` `Android` `Shell`
-- Outils : `UML` `Maven` `Git/GitLab` `JUnit` `AWK` `Eclipse` `VSCode` `PhpMyAdmin` `XAMPP` `Pack Office (Word, Excel, PowerPoint)` `GitHub`
+---
 
-## Contact
-Pour une collaboration, une idée de projet ou un échange :
-- 📧 Email : **akramslimani277@gmail.com**
-- 🔗 LinkedIn : **https://www.linkedin.com/in/akra5778a3221/**
+## ✅ Domaines d’intérêt
+- 🌐 Développement Web (applications interactives, interfaces modernes)
+- 📱 Développement Mobile (applications orientées utilisateur)
+- 🖥️ Développement Desktop (applications stables et bien structurées)
+- 🤖 Intelligence Artificielle (apprentissage, expérimentation, projets IA)
+- 🧠 Programmation orientée objet & résolution de problèmes
 
-Merci d’avoir visité mon profil GitHub ! N’hésite pas à explorer mes projets et à me laisser tes retours ⭐
+---
 
-<!-- Stats (optionnel) -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=boukherroubiamine-rgb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🧩 Projets
+Je développe régulièrement des projets **personnels** et **académiques** qui me permettent de transformer mes connaissances en pratique et d’explorer de nouvelles technologies.  
+Je m’intéresse particulièrement à la création d’applications **Web**, **Mobile** et **Desktop**, ainsi qu’aux projets liés à l’**IA**, avec une attention sur des solutions **utiles**, **interactives** et faciles à utiliser.  
+Chaque projet est pour moi une occasion d’améliorer ma logique, ma structure de code et ma manière de concevoir des applications.
 
-<!--
-Stats globales (optionnel) :
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boukherroubiamine-rgb&show_icons=true&locale=en" alt="boukherroubiamine-rgb" /></p>
--->
+---
 
-<!--
-Visites (optionnel) :
-[![](https://visitcount.itsvg.in/api?id=boukherroubiamine-rgb&icon=0&color=0)](https://visitcount.itsvg.in)
--->
+## 🛠️ Compétences techniques
 
-<!--
-Petit code fun (optionnel) :
-```python
-passion = True
-if passion:
-    print("Salut ! Je suis Amine Boukherroubi, étudiant en informatique 🚀")
+### Langages
+`Java` `C` `Python` `R` `JavaScript` `PHP` `HTML/CSS` `Prolog` `Processing`
+
+### Bases de données
+`MySQL` `PostgreSQL` `Oracle` `PL/pgSQL`
+
+### Systèmes
+`Windows` `Linux` `Android` `Shell`
+
+### Outils
+`UML` `Maven` `Git/GitLab` `GitHub` `JUnit` `AWK` `Eclipse` `VS Code` `PhpMyAdmin` `XAMPP` `Pack Office (Word, Excel, PowerPoint)`
+
+---
+
+## 🔎 Ma façon de travailler
+- Code clair, lisible et bien organisé
+- Approche progressive : analyser → coder → améliorer
+- Utilisation de Git pour versionner et suivre les changements
+- Curiosité et motivation pour apprendre de nouvelles technologies et bonnes pratiques
+
+---
+
+## 📫 Contact
+📧 Email : **akramslimani277@gmail.com**  
+🔗 LinkedIn : **https://www.linkedin.com/in/akra5778a3221/**
+
+---
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=boukherroubiamine-rgb&theme=dark&hide_border=false&layout=compact)
