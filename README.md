@@ -47,7 +47,7 @@ Chaque projet est pour moi une occasion d’améliorer ma logique, ma structure 
 
 ## 📫 Contact
 📧 Email : **boukherroubiamine@gmail.com**  
-🔗 LinkedIn : **https://www.linkedin.com/in/akra5778a3221/**
+🔗 LinkedIn : **[https://www.linkedin.com/in/amine-boukherroubi-3a0b05341/]**
 
 ---
 
